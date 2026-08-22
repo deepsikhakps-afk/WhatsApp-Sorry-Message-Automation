@@ -24,4 +24,4 @@ Install Python from the official website.
 Install PyAutoGUI:
 
 ```bash
-pip install pyautogu
+pip install pyautogui
