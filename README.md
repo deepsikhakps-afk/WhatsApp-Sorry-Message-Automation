@@ -21,7 +21,7 @@ apology messages through WhatsApp Web.
 
 Install Python from the official website.
 
-Install 
+Install PyAutoGUI:
 
 ```bash
 pip install pyautogui
