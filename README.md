@@ -11,7 +11,7 @@ apology messages through WhatsApp Web.
 - Automate WhatsApp Web
 - Send repeated messages automatically.
 
-## Technologies Used
+## Technologies 
 
 - Python
 - PyAutoGUI
