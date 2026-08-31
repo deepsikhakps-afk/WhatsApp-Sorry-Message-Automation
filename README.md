@@ -15,7 +15,7 @@ apology messages through WhatsApp Web.
 
 - Python
 - PyAutoGUI
-- WhatsApp Web
+- WhatsA
 
 ## Installation
 
