@@ -9,7 +9,7 @@ apology messages through WhatsApp Web.
 - Enter number of messages
 - Enter custom apology message
 - Automate WhatsApp Web
-- Send repeated messages automat
+- Send repeated messages automatically.
 
 ## Technologies Used
 
