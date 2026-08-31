@@ -19,7 +19,7 @@ apology messages through WhatsApp Web.
 
 ## Installation
 
-Install Python from the official 
+Install Python from the official website.
 
 Install PyAutoGUI:
 
